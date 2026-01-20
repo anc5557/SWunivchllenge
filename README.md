@@ -171,10 +171,9 @@ def make_prediction(...):
 
 ## 🔗 참고 자료
 
-* Kaggle Competition
-  [https://www.kaggle.com/competitions/2022swunivchallenge](https://www.kaggle.com/competitions/2022swunivchallenge)
+* [Kaggle Competition](https://www.kaggle.com/competitions/2022swunivchallenge)
 
-* Google Colab Notebook
+* [Google Colab Notebook](https://colab.research.google.com/drive/1Z_BTCMcoFwOGpyOe6W1zB-XCW0mzuOTt?usp=sharing)
 
 
 ---
